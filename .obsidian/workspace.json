@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/NVIDIA.md",
+                "file": "Thinkers/Great Thinkers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/NVIDIA.md",
+                "file": "Thinkers/Great Thinkers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/NVIDIA.md",
+                "file": "Thinkers/Great Thinkers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/NVIDIA.md"
+                "file": "Thinkers/Great Thinkers.md"
               }
             }
           }
@@ -146,18 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b075e8c128848830",
+  "active": "1e520b5b8f600582",
   "lastOpenFiles": [
-    "Thinkers/Linus Torvalds.md",
+    "Thinkers/Karen Armstrong.md",
+    "Mythology/Religions & Mythology.md",
+    "Media/Books/A Universe from Nothing.md",
+    "Concepts/Time/Time.md",
+    "Concepts/Evolution.md",
+    "Concepts/Humans.md",
+    "Media/Books/The History of God.md",
+    "human.md",
+    "Mythology/Polytheism.md",
+    "Mythology/Monotheism.md",
+    "Mythology/God.md",
     "Technology/NVIDIA.md",
+    "Thinkers/Linus Torvalds.md",
     "Technology/git.md",
     "Thinkers/Great Thinkers.md",
     "Thinkers/Sam Harris.md",
     "Naturalism/Naturalism.md",
-    "Mythology/God.md",
-    "Mythology/Religions & Mythology.md",
-    "Mythology/Polytheism.md",
-    "Mythology/Monotheism.md",
     "polytheistic.md",
     "Concepts/Atom.md",
     "Technology/Linux.md",
@@ -167,14 +174,7 @@
     "Technology/Networking/port 22.md",
     "Technology/Networking/port 80.md",
     "Technology/Networking/port 443.md",
-    "Technology/Frameworks/Nuxt.md",
-    "Technology/Frameworks/Vue.md",
-    "Naturalism/Atheism.md",
     "Media",
-    "Thinkers/Isaac Newton.md",
-    "Thinkers/Lawrence M. Krauss.md",
-    "Thinkers/Richard Feynman.md",
-    "Thinkers/Ryan Dahl.md",
     "Technology/Networking",
     "Media/Music",
     "Media/Games",

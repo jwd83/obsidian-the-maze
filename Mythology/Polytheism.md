@@ -1,1 +1,1 @@
-A belief that multiple super natural entities or [[God]]s govern, influence or gave rise to the cosmos
+A belief that multiple super natural entities or [[God|gods]] govern, influence or gave rise to the cosmos
