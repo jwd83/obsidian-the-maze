@@ -1,0 +1,1 @@
+Discovered many principals of [[Gravity]] and [[Light]]. Wrote [[Principia Mathematica]].

@@ -1,0 +1,1 @@
+A performant low level programming language that allows inline assembly and is what the majority of the [[Linux]] [[Kernel]] is written in.

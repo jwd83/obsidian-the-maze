@@ -1,0 +1,1 @@
+A leading physicist and popular science author. Wrote [[A Universe from Nothing]] laying out man's current understanding of the universe 

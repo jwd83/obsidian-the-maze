@@ -1,0 +1,1 @@
+A fundamental building block of the [[Atom]]. Electrons are thought to be negatively charged.

@@ -1,0 +1,1 @@
+Aside from being one of my favorite songs by [[Pink Floyd]], time is a difficult concept to understand. It appears to only move in one direction; however; [[Electron]] [[Positron]] pairs appear to somewhat invalidate this premise. The book [[A Universe from Nothing]] by [[Lawrence M. Krauss]] has an excellent chapter discussing this.  

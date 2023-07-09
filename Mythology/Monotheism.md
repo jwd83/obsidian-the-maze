@@ -1,0 +1,1 @@
+A belief that a single super natural entity, like [[God]] governs, influences or gave rise to the cosmos.

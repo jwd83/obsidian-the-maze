@@ -1,0 +1,1 @@
+Electromagnetic radiation is (packets/quanta) or waves of energy that propagates throughout the universe. Some of the most distant radiation we can detect is that of the [[Cosmic Microwave Background Radiation]]. It is leftovers from the [[The Big Bang]] that is [[red shifting]] away from us according to the expansion of the universe. It appears to be largely uniform and random. 
