@@ -11,12 +11,8 @@
             "id": "1e520b5b8f600582",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thinkers/Great Thinkers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thinkers/Great Thinkers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thinkers/Great Thinkers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Thinkers/Great Thinkers.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,13 @@
   },
   "active": "1e520b5b8f600582",
   "lastOpenFiles": [
+    "Naturalism/Atheism.md",
+    "Naturalism/Naturalism.md",
+    "Technology/Programming Languages/C.md",
+    "Media/Movies/Great Movies.md",
+    "Technology/AI.md",
+    "Technology/Programming Languages/Programming Languages.md",
+    "Thinkers/Great Thinkers.md",
     "Thinkers/Karen Armstrong.md",
     "Mythology/Religions & Mythology.md",
     "Media/Books/A Universe from Nothing.md",
@@ -162,18 +161,11 @@
     "Technology/NVIDIA.md",
     "Thinkers/Linus Torvalds.md",
     "Technology/git.md",
-    "Thinkers/Great Thinkers.md",
     "Thinkers/Sam Harris.md",
-    "Naturalism/Naturalism.md",
     "polytheistic.md",
     "Concepts/Atom.md",
     "Technology/Linux.md",
     "Media/Music/Pink Floyd.md",
-    "Media/Music/Art Rock.md",
-    "Technology/Networking/SSH.md",
-    "Technology/Networking/port 22.md",
-    "Technology/Networking/port 80.md",
-    "Technology/Networking/port 443.md",
     "Media",
     "Technology/Networking",
     "Media/Music",
