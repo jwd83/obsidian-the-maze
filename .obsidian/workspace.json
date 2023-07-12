@@ -11,8 +11,12 @@
             "id": "7bc80f1dae8cb812",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Naturalism/Atheism.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Naturalism/Atheism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Naturalism/Atheism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Naturalism/Atheism.md"
+              }
             }
           }
         ]
@@ -138,35 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bc80f1dae8cb812",
+  "active": "b075e8c128848830",
   "lastOpenFiles": [
-    "Thinkers/Albert Einstein.md",
-    "Naturalism/Atheism.md",
-    "Technology/LaTeX.md",
-    "Technology/MathJax.md",
-    "Concepts/Health/TDEE.md",
-    "Concepts/Health/BMR.md",
-    "Concepts/Health",
+    "Concepts/Electromagnetic Spectrum.md",
+    "Concepts/Electromagnetic Radiation.md",
+    "Concepts/Cosmos.md",
+    "Thinkers/Carl Sagan.md",
+    "Thinkers/Charles Darwin.md",
+    "Media/Books/On the Origin of Species.md",
+    "Thinkers/Sam Harris.md",
+    "Thinkers/Richard Feynman.md",
+    "Technology/Postgres.md",
     "Technology/Supabase.md",
-    "Technology/Frameworks/Nuxt.md",
-    "Technology/Frameworks/Vue.md",
-    "Naturalism/Naturalism.md",
-    "Technology/Programming Languages/C.md",
-    "Media/Movies/Great Movies.md",
+    "2023-07-12.md",
+    "Untitled.canvas",
+    "Concepts/Health/BMI.md",
+    "Concepts/Health/BMR.md",
+    "Technology/MathJax.md",
+    "Technology/Linux.md",
+    "Technology/Kernel.md",
+    "Technology/git.md",
     "Technology/AI.md",
-    "Technology/Programming Languages/Programming Languages.md",
-    "Thinkers/Great Thinkers.md",
-    "Thinkers/Karen Armstrong.md",
-    "Mythology/Religions & Mythology.md",
-    "Media/Books/A Universe from Nothing.md",
-    "Concepts/Time/Time.md",
-    "Concepts/Evolution.md",
-    "Concepts/Humans.md",
-    "Media/Books/The History of God.md",
-    "human.md",
-    "Mythology/Polytheism.md",
-    "Mythology/Monotheism.md",
+    "Technology/LaTeX.md",
+    "Technology/NVIDIA.md",
+    "Technology/Top500.md",
+    "Technology/Unreal.md",
+    "Technology/web.md",
+    "Naturalism/Atheism.md",
+    "Naturalism/Naturalism.md",
     "Mythology/God.md",
+    "Concepts/Health",
     "Media",
     "Technology/Networking",
     "Media/Music",
@@ -175,7 +184,6 @@
     "Concepts",
     "Technology/Frameworks",
     "Media/Movies",
-    "Naturalism",
-    "Untitled.canvas"
+    "Naturalism"
   ]
 }

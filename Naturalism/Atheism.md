@@ -1,2 +1,2 @@
-The lack of belief in the supernatural such as [[god]]. This does not require the belief in anything else. It is similar to calling oneself a non-stamp collector.
+The lack of belief in things supernatural such as [[god]], prayer, ESP, ghosts and more. This does not require the belief in anything else. It is similar to calling oneself a non-stamp collector.
 
