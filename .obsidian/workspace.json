@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "660d70dc1354506b",
+        "id": "aedb31023261b0f3",
         "type": "tabs",
         "children": [
           {
-            "id": "7bc80f1dae8cb812",
+            "id": "167750a1e7762986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Naturalism/Atheism.md",
+                "file": "Technology/Frameworks/Vue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naturalism/Atheism.md",
+                "file": "Technology/Frameworks/Vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Naturalism/Atheism.md",
+                "file": "Technology/Frameworks/Vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Naturalism/Atheism.md"
+                "file": "Technology/Frameworks/Vue.md"
               }
             }
           }
@@ -146,17 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b075e8c128848830",
+  "active": "167750a1e7762986",
   "lastOpenFiles": [
-    "Concepts/Electromagnetic Spectrum.md",
-    "Concepts/Electromagnetic Radiation.md",
+    "Thinkers/Charles Darwin.md",
+    "Technology/Postgres.md",
     "Concepts/Cosmos.md",
     "Thinkers/Carl Sagan.md",
-    "Thinkers/Charles Darwin.md",
+    "Naturalism/Naturalism.md",
+    "Concepts/The Big Bang.md",
+    "Concepts/Electromagnetic Radiation.md",
+    "Naturalism/Atheism.md",
+    "Concepts/Electromagnetic Spectrum.md",
     "Media/Books/On the Origin of Species.md",
     "Thinkers/Sam Harris.md",
     "Thinkers/Richard Feynman.md",
-    "Technology/Postgres.md",
     "Technology/Supabase.md",
     "2023-07-12.md",
     "Untitled.canvas",
@@ -172,9 +175,6 @@
     "Technology/Top500.md",
     "Technology/Unreal.md",
     "Technology/web.md",
-    "Naturalism/Atheism.md",
-    "Naturalism/Naturalism.md",
-    "Mythology/God.md",
     "Concepts/Health",
     "Media",
     "Technology/Networking",
