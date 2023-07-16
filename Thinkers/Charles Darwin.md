@@ -10,6 +10,6 @@ The book is written about discoveries he made while voyaging on the HMS Beagle.
 
 The finches of the Galapagos island are one of the more famous animals referenced in Darwin's work and have been affectionately called Darwin's Finches. Darwin noted the finches of each island had slightly different beaks that were more suited towards the wildlife of each island. 
 
-Darwin was pressured by religious zealots of his age much like [[Galileo]] was. Sadly later publications of the origin of species have text changes to appease these masses.
+Darwin was pressured by religious zealots of his age much like [[Galileo Galilei]] was. Sadly later publications of the origin of species have text changes to appease these masses.
 
 Darwin effectively created a rationale of scientific [[naturalism]] and [[Atheism]]. 
