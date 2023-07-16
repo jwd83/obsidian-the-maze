@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Frameworks/Vue.md",
+                "file": "Concepts/Humans.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/Frameworks/Vue.md",
+                "file": "Concepts/Humans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/Frameworks/Vue.md",
+                "file": "Concepts/Humans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/Frameworks/Vue.md"
+                "file": "Concepts/Humans.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "167750a1e7762986",
   "lastOpenFiles": [
+    "Technology/Networking/Common Ports & Protocols.md",
+    "Technology/Frameworks/Vue.md",
+    "Technology/Frameworks/Nuxt 3.md",
     "Thinkers/Charles Darwin.md",
     "Technology/Postgres.md",
     "Concepts/Cosmos.md",
@@ -172,9 +175,6 @@
     "Technology/AI.md",
     "Technology/LaTeX.md",
     "Technology/NVIDIA.md",
-    "Technology/Top500.md",
-    "Technology/Unreal.md",
-    "Technology/web.md",
     "Concepts/Health",
     "Media",
     "Technology/Networking",
