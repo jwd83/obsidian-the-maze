@@ -1,0 +1,1 @@
+A formatting and styling language using simple plain text. Popularized on [[reddit]] and [[github]].
