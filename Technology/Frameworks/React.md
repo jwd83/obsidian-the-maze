@@ -29,5 +29,9 @@ Components contain templates and logic. Babel converts JSX into the html and jav
 
 Starting with react 17 you no longer need to import react in your components.
 
-### CSS
-To apply css styles use className instead of class.
+### Styling Components with [[CSS]]
+To apply CSS styles use `className` instead of `class` when working with an HTML elements you wish to style. 
+
+`<div className="myCustomClass">`
+
+
