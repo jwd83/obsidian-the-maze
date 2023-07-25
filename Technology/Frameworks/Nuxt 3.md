@@ -1,4 +1,4 @@
-Nuxt is a full stack javascript framework that builds opon [[Vue]]. It offers [[Server Side Rendering]].
+Nuxt is a full stack javascript framework that builds opon [[Technology/Frameworks/Vue]]. It offers [[Server Side Rendering]].
 
 ## Create a Nuxt 3 App
 
