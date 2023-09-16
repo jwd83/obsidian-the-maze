@@ -6,4 +6,4 @@ Some of my favorite programming language, and document formats, I've used over t
 [[Python]] / [[Mojo]]
 [[PHP]]
 [[JavaScript]] / Node.js / Deno
-[[Godot]]
+[[Godot GDScript]]
